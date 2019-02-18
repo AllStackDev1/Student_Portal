@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb85c28a-759a-4f95-afa1-e96219a37dab" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="v1.2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="iKolilu_student_portal.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="188" column="21" lean-forward="false" selection-start-line="188" selection-start-column="21" selection-end-line="188" selection-end-column="21" />
+              <folding>
+                <element signature="e#147#344#0#PHP" expanded="false" />
+                <element signature="e#353#775#0#PHP" expanded="false" />
+                <element signature="e#784#1042#0#PHP" expanded="false" />
+                <element signature="e#1051#1248#0#PHP" expanded="false" />
+                <element signature="e#1257#1459#0#PHP" expanded="false" />
+                <element signature="e#1468#1788#0#PHP" expanded="false" />
+                <element signature="e#1797#1993#0#PHP" expanded="false" />
+                <element signature="e#2002#2324#0#PHP" expanded="false" />
+                <element signature="e#2333#2530#0#PHP" expanded="false" />
+                <element signature="e#2539#2800#0#PHP" expanded="false" />
+                <element signature="e#2809#3862#0#PHP" expanded="false" />
+                <element signature="e#3871#4107#0#PHP" expanded="false" />
+                <element signature="e#4116#4477#0#PHP" expanded="false" />
+                <element signature="e#4486#4625#0#PHP" expanded="false" />
+                <element signature="n#login#0;n#!!top" expanded="false" />
+                <element signature="n#forget_password#0;n#!!top" expanded="false" />
+                <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+                <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+                <element signature="n#dir_message#0;n#!!top" expanded="false" />
+                <element signature="n#announcements#0;n#!!top" expanded="false" />
+                <element signature="n#subject_list#0;n#!!top" expanded="false" />
+                <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+                <element signature="n#question_bank#0;n#!!top" expanded="false" />
+                <element signature="n#lib_search#0;n#!!top" expanded="false" />
+                <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+                <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+                <element signature="n#vote_update#0;n#!!top" expanded="false" />
+                <element signature="n#views#0;n#!!top" expanded="false" />
+                <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forumdata.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="threadViews.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+              <folding>
+                <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>POST</find>
+      <find>$_POST</find>
+      <find>$id</find>
+      <find>id</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/iKolilu_student_portal.php" />
+        <option value="$PROJECT_DIR$/assets/threadViews.json" />
+        <option value="$PROJECT_DIR$/assets/forumdata.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1401" />
+    <option name="y" value="12" />
+    <option name="width" value="1024" />
+    <option name="height" value="766" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v1.2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="C:/programming/angular/.idea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\iKolilu\studentportal\v1.2\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb85c28a-759a-4f95-afa1-e96219a37dab" name="Default" comment="" />
+      <created>1520694137673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520694137673</updated>
+      <workItem from="1520694140931" duration="57585000" />
+      <workItem from="1520870509738" duration="2076000" />
+      <workItem from="1521017768221" duration="2010000" />
+      <workItem from="1521447815720" duration="27351000" />
+      <workItem from="1521621377373" duration="1028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90050000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1401" y="12" width="1024" height="766" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14107884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding>
+            <element signature="e#147#344#0#PHP" expanded="false" />
+            <element signature="e#353#775#0#PHP" expanded="false" />
+            <element signature="e#784#1042#0#PHP" expanded="false" />
+            <element signature="e#1051#1248#0#PHP" expanded="false" />
+            <element signature="e#1257#1459#0#PHP" expanded="false" />
+            <element signature="e#1468#1788#0#PHP" expanded="false" />
+            <element signature="e#1797#1993#0#PHP" expanded="false" />
+            <element signature="e#2002#2324#0#PHP" expanded="false" />
+            <element signature="e#2333#2530#0#PHP" expanded="false" />
+            <element signature="e#2539#2800#0#PHP" expanded="false" />
+            <element signature="e#2809#3862#0#PHP" expanded="false" />
+            <element signature="e#3871#4107#0#PHP" expanded="false" />
+            <element signature="e#4116#4477#0#PHP" expanded="false" />
+            <element signature="e#4486#4625#0#PHP" expanded="false" />
+            <element signature="n#login#0;n#!!top" expanded="false" />
+            <element signature="n#forget_password#0;n#!!top" expanded="false" />
+            <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#dir_message#0;n#!!top" expanded="false" />
+            <element signature="n#announcements#0;n#!!top" expanded="false" />
+            <element signature="n#subject_list#0;n#!!top" expanded="false" />
+            <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+            <element signature="n#question_bank#0;n#!!top" expanded="false" />
+            <element signature="n#lib_search#0;n#!!top" expanded="false" />
+            <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+            <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+            <element signature="n#vote_update#0;n#!!top" expanded="false" />
+            <element signature="n#views#0;n#!!top" expanded="false" />
+            <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="104" lean-forward="false" selection-start-line="123" selection-start-column="104" selection-end-line="123" selection-end-column="104" />
+          <folding>
+            <element signature="e#147#344#0#PHP" expanded="false" />
+            <element signature="e#353#775#0#PHP" expanded="false" />
+            <element signature="e#784#1042#0#PHP" expanded="false" />
+            <element signature="e#1051#1248#0#PHP" expanded="false" />
+            <element signature="e#1257#1459#0#PHP" expanded="false" />
+            <element signature="e#1468#1788#0#PHP" expanded="false" />
+            <element signature="e#1797#1993#0#PHP" expanded="false" />
+            <element signature="e#2002#2324#0#PHP" expanded="false" />
+            <element signature="e#2333#2530#0#PHP" expanded="false" />
+            <element signature="e#2539#2800#0#PHP" expanded="false" />
+            <element signature="e#2809#3862#0#PHP" expanded="false" />
+            <element signature="e#3871#4107#0#PHP" expanded="false" />
+            <element signature="e#4116#4477#0#PHP" expanded="false" />
+            <element signature="e#4486#4625#0#PHP" expanded="false" />
+            <element signature="n#login#0;n#!!top" expanded="false" />
+            <element signature="n#forget_password#0;n#!!top" expanded="false" />
+            <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#dir_message#0;n#!!top" expanded="false" />
+            <element signature="n#announcements#0;n#!!top" expanded="false" />
+            <element signature="n#subject_list#0;n#!!top" expanded="false" />
+            <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+            <element signature="n#question_bank#0;n#!!top" expanded="false" />
+            <element signature="n#lib_search#0;n#!!top" expanded="false" />
+            <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+            <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+            <element signature="n#vote_update#0;n#!!top" expanded="false" />
+            <element signature="n#views#0;n#!!top" expanded="false" />
+            <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#147#344#0#PHP" expanded="false" />
+            <element signature="e#353#775#0#PHP" expanded="false" />
+            <element signature="e#784#1042#0#PHP" expanded="false" />
+            <element signature="e#1051#1248#0#PHP" expanded="false" />
+            <element signature="e#1257#1459#0#PHP" expanded="false" />
+            <element signature="e#1468#1788#0#PHP" expanded="false" />
+            <element signature="e#1797#1993#0#PHP" expanded="false" />
+            <element signature="e#2002#2324#0#PHP" expanded="false" />
+            <element signature="e#2333#2530#0#PHP" expanded="false" />
+            <element signature="e#2539#2800#0#PHP" expanded="false" />
+            <element signature="e#2809#3862#0#PHP" expanded="false" />
+            <element signature="e#3871#4107#0#PHP" expanded="false" />
+            <element signature="e#4116#4477#0#PHP" expanded="false" />
+            <element signature="e#4486#4625#0#PHP" expanded="false" />
+            <element signature="n#login#0;n#!!top" expanded="false" />
+            <element signature="n#forget_password#0;n#!!top" expanded="false" />
+            <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#dir_message#0;n#!!top" expanded="false" />
+            <element signature="n#announcements#0;n#!!top" expanded="false" />
+            <element signature="n#subject_list#0;n#!!top" expanded="false" />
+            <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+            <element signature="n#question_bank#0;n#!!top" expanded="false" />
+            <element signature="n#lib_search#0;n#!!top" expanded="false" />
+            <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+            <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+            <element signature="n#vote_update#0;n#!!top" expanded="false" />
+            <element signature="n#views#0;n#!!top" expanded="false" />
+            <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
+          <folding>
+            <element signature="e#147#344#0#PHP" expanded="false" />
+            <element signature="e#353#775#0#PHP" expanded="false" />
+            <element signature="e#784#1042#0#PHP" expanded="false" />
+            <element signature="e#1051#1248#0#PHP" expanded="false" />
+            <element signature="e#1257#1459#0#PHP" expanded="false" />
+            <element signature="e#1468#1788#0#PHP" expanded="false" />
+            <element signature="e#1797#1993#0#PHP" expanded="false" />
+            <element signature="e#2002#2324#0#PHP" expanded="false" />
+            <element signature="e#2333#2530#0#PHP" expanded="false" />
+            <element signature="e#2539#2800#0#PHP" expanded="false" />
+            <element signature="e#2809#3862#0#PHP" expanded="false" />
+            <element signature="e#3871#4107#0#PHP" expanded="false" />
+            <element signature="e#4116#4477#0#PHP" expanded="false" />
+            <element signature="e#4486#4625#0#PHP" expanded="false" />
+            <element signature="n#login#0;n#!!top" expanded="false" />
+            <element signature="n#forget_password#0;n#!!top" expanded="false" />
+            <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#dir_message#0;n#!!top" expanded="false" />
+            <element signature="n#announcements#0;n#!!top" expanded="false" />
+            <element signature="n#subject_list#0;n#!!top" expanded="false" />
+            <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+            <element signature="n#question_bank#0;n#!!top" expanded="false" />
+            <element signature="n#lib_search#0;n#!!top" expanded="false" />
+            <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+            <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+            <element signature="n#vote_update#0;n#!!top" expanded="false" />
+            <element signature="n#views#0;n#!!top" expanded="false" />
+            <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/threadViews.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="27" lean-forward="false" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <marker date="1521717601735" expanded="true" signature="1716:2054" ph="{&quot;thread_id&quot;: &quot;th_000002&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/forumdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/iKolilu_student_portal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="188" column="21" lean-forward="false" selection-start-line="188" selection-start-column="21" selection-end-line="188" selection-end-column="21" />
+          <folding>
+            <element signature="e#147#344#0#PHP" expanded="false" />
+            <element signature="e#353#775#0#PHP" expanded="false" />
+            <element signature="e#784#1042#0#PHP" expanded="false" />
+            <element signature="e#1051#1248#0#PHP" expanded="false" />
+            <element signature="e#1257#1459#0#PHP" expanded="false" />
+            <element signature="e#1468#1788#0#PHP" expanded="false" />
+            <element signature="e#1797#1993#0#PHP" expanded="false" />
+            <element signature="e#2002#2324#0#PHP" expanded="false" />
+            <element signature="e#2333#2530#0#PHP" expanded="false" />
+            <element signature="e#2539#2800#0#PHP" expanded="false" />
+            <element signature="e#2809#3862#0#PHP" expanded="false" />
+            <element signature="e#3871#4107#0#PHP" expanded="false" />
+            <element signature="e#4116#4477#0#PHP" expanded="false" />
+            <element signature="e#4486#4625#0#PHP" expanded="false" />
+            <element signature="n#login#0;n#!!top" expanded="false" />
+            <element signature="n#forget_password#0;n#!!top" expanded="false" />
+            <element signature="n#emailVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#mobileVerification_for_password_change#0;n#!!top" expanded="false" />
+            <element signature="n#dir_message#0;n#!!top" expanded="false" />
+            <element signature="n#announcements#0;n#!!top" expanded="false" />
+            <element signature="n#subject_list#0;n#!!top" expanded="false" />
+            <element signature="n#lesson_plan#0;n#!!top" expanded="false" />
+            <element signature="n#question_bank#0;n#!!top" expanded="false" />
+            <element signature="n#lib_search#0;n#!!top" expanded="false" />
+            <element signature="n#get_thread_data#0;n#!!top" expanded="false" />
+            <element signature="n#write_forum_data#0;n#!!top" expanded="false" />
+            <element signature="n#vote_update#0;n#!!top" expanded="false" />
+            <element signature="n#views#0;n#!!top" expanded="false" />
+            <element signature="n#update_views_count#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

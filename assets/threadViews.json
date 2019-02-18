@@ -1,0 +1,156 @@
+[
+    {
+        "thread_id": "1000",
+        "ip": "127.0.0.1",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "127.0.0.1",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "197.251.132.89",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "41.210.27.57",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "127.0.0.5",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "41.210.27.57",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "41.210.25.126",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "197.251.133.165",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "41.210.27.56",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "197.251.133.165",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "41.210.27.58",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "154.160.21.153",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "154.160.6.48",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "41.210.28.223",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1002",
+        "ip": "41.210.28.223",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1001",
+        "ip": "41.210.28.223",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1003",
+        "ip": "41.210.28.223",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "197.251.142.132",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1003",
+        "ip": "197.251.142.101",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1003",
+        "ip": "41.210.24.238",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "154.160.0.4",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    },
+    {
+        "thread_id": "1000",
+        "ip": "41.210.28.116",
+        "studentid": "GSIS09882",
+        "szclass": "JSS 2",
+        "schoolid": "GSISCHOOL"
+    }
+]

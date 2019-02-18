@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="852be906-1b68-4962-bcec-ff3c266d8cfb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="studentportalapi_.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studentportalapi_.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding>
+                <element signature="e#854#1219#0#PHP" />
+                <element signature="e#1247#1661#0#PHP" />
+                <element signature="n#_response#0;n#StudentPortalApi#0;n#!!top" />
+                <element signature="n#_cleanInputs#0;n#StudentPortalApi#0;n#!!top" />
+                <element signature="n#get_request_method#0;n#StudentPortalApi#0;n#!!top" />
+                <element signature="n#_requestStatus#0;n#StudentPortalApi#0;n#!!top" />
+                <element signature="e#4403#4507#0#PHP" />
+                <element signature="e#4982#5063#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentportalprocess_.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/studentportalprocess_.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="170" column="5" lean-forward="true" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="42" />
+              <folding>
+                <element signature="n#Login#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#ForgetPassword#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#DirectNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#ClassNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#GeneralNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#SubjectList#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#LessonPlan#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#QuestionBank#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#SearchLibraryBooks#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#GetThreadData#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#GetThreadsData#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#CreateThread#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#QuickReplyThread#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#VoteUpdate#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#Views#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#ClassSubjects#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#GetPreSchoolSubjectRemarks#0;n#StudentPortalProcess#0;n#!!top" />
+                <element signature="n#GetPreSchoolDailyReport#0;n#StudentPortalProcess#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="studentportalfunction_.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/studentportalfunction_.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="453" column="14" lean-forward="true" selection-start-line="453" selection-start-column="14" selection-end-line="453" selection-end-column="14" />
+              <folding>
+                <element signature="n#sign_in#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#forget_password#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#emailVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#sz_mobileVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#getDirectNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#getClassNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#getGeneralNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#subject_list#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#lesson_plan#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#question_bank#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#getClassSubjects#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#lib_search#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#create_thread#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#get_threads_data#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#get_thread_data#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#quick_reply_thread#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#vote_update#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#check_views#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#update_views_count#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#PreSchoolSubSubjectRemarks#0;n#StudentPortalFunction#0;n#!!top" />
+                <element signature="n#PerSchoolDailyReport#0;n#StudentPortalFunction#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/iKolilu_student_portal.php" />
+        <option value="$PROJECT_DIR$/studentportalprocess_.php" />
+        <option value="$PROJECT_DIR$/studentportalfunction_.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ikoliluonlineapp" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852be906-1b68-4962-bcec-ff3c266d8cfb" name="Default" comment="" />
+      <created>1520642224705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520642224705</updated>
+      <workItem from="1520642226196" duration="16765000" />
+      <workItem from="1528307168887" duration="475000" />
+      <workItem from="1528726627526" duration="4132000" />
+      <workItem from="1528731726432" duration="6634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13313162" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3288889" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/studentportalapi_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#854#1219#0#PHP" />
+            <element signature="e#1247#1661#0#PHP" />
+            <element signature="n#_response#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#_cleanInputs#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#get_request_method#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#_requestStatus#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="e#4403#4507#0#PHP" />
+            <element signature="e#4982#5063#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentportalfunction_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="506" column="34" lean-forward="true" selection-start-line="506" selection-start-column="34" selection-end-line="506" selection-end-column="34" />
+          <folding>
+            <element signature="n#sign_in#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#forget_password#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#emailVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#sz_mobileVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getDirectNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getClassNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getGeneralNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#subject_list#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#lesson_plan#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#question_bank#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getClassSubjects#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#lib_search#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#create_thread#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#get_threads_data#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#get_thread_data#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#quick_reply_thread#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#vote_update#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#check_views#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#update_views_count#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#PreSchoolSubSubjectRemarks#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#PerSchoolDailyReport#0;n#StudentPortalFunction#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentportalprocess_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2839">
+          <caret line="167" column="62" selection-start-line="167" selection-start-column="52" selection-end-line="167" selection-end-column="62" />
+          <folding>
+            <element signature="n#Login#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ForgetPassword#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#DirectNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ClassNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GeneralNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#SubjectList#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#LessonPlan#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#QuestionBank#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#SearchLibraryBooks#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetThreadData#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetThreadsData#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#CreateThread#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#QuickReplyThread#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#VoteUpdate#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#Views#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ClassSubjects#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetPreSchoolSubjectRemarks#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetPreSchoolDailyReport#0;n#StudentPortalProcess#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iKolilu_student_portal.php" />
+    <entry file="file://$PROJECT_DIR$/studentportalapi_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#854#1219#0#PHP" />
+            <element signature="e#1247#1661#0#PHP" />
+            <element signature="n#_response#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#_cleanInputs#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#get_request_method#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="n#_requestStatus#0;n#StudentPortalApi#0;n#!!top" />
+            <element signature="e#4403#4507#0#PHP" />
+            <element signature="e#4982#5063#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentportalfunction_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="453" column="14" lean-forward="true" selection-start-line="453" selection-start-column="14" selection-end-line="453" selection-end-column="14" />
+          <folding>
+            <element signature="n#sign_in#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#forget_password#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#emailVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#sz_mobileVerification_for_password_change#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getDirectNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getClassNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getGeneralNotifications#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#subject_list#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#lesson_plan#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#question_bank#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#getClassSubjects#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#lib_search#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#create_thread#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#get_threads_data#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#get_thread_data#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#quick_reply_thread#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#vote_update#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#check_views#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#update_views_count#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#PreSchoolSubSubjectRemarks#0;n#StudentPortalFunction#0;n#!!top" />
+            <element signature="n#PerSchoolDailyReport#0;n#StudentPortalFunction#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentportalprocess_.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="170" column="5" lean-forward="true" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="42" />
+          <folding>
+            <element signature="n#Login#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ForgetPassword#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#DirectNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ClassNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GeneralNotifications#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#SubjectList#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#LessonPlan#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#QuestionBank#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#SearchLibraryBooks#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetThreadData#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetThreadsData#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#CreateThread#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#QuickReplyThread#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#VoteUpdate#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#Views#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#ClassSubjects#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetPreSchoolSubjectRemarks#0;n#StudentPortalProcess#0;n#!!top" />
+            <element signature="n#GetPreSchoolDailyReport#0;n#StudentPortalProcess#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
